@@ -9,3 +9,7 @@ pnpm dev
 ```
 
 with node_modules checked in
+
+in later commits,
+
+`npm i -D @swc/cli @swc/core` is tried
